@@ -1,0 +1,4 @@
+#frank-data, #max-data {
+    display: flex;
+    flex-direction: row;
+}
